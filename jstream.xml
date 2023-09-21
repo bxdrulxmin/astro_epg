@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tv generator-info-name="M3U-Editor.com" generator-info-url="https://m3u-editor.com">
+  <channel id="1.astro">
+    <display-name lang="en">K-POPCORN</display-name>
+  </channel>
+  <channel id="10.astro">
+    <display-name lang="en">Bollywood Prime</display-name>
+  </channel>
+  <channel id="100.astro">
+    <display-name lang="en">Demi Negaraku</display-name>
+  </channel>
+  <channel id="101.astro">
+    <display-name lang="en">TV1</display-name>
+  </channel>
+  <channel id="102.astro">
+    <display-name lang="en">TV2</display-name>
+  </channel>
+  <channel id="103.astro">
+    <display-name lang="en">TV3</display-name>
+  </channel>
+  <channel id="104.astro">
+    <display-name lang="en">RIA HD</display-name>
+  </channel>
+  <channel id="105.astro">
+    <display-name lang="en">PRIMA HD</display-name>
+  </channel>
+  <channel id="106.astro">
+    <display-name lang="en">OASIS HD</display-name>
+  </channel>
+  <channel id="107.astro">
+    <display-name lang="en">WARNA HD</display-name>
+  </channel>
+  <channel id="108.astro">
+    <display-name lang="en">CITRA HD</display-name>
+  </channel>
+  <channel id="111.astro">
+    <display-name lang="en">GO SHOP</display-name>
+  </channel>
+  <channel id="112.astro">
+    <display-name lang="en">RANIA HD</display-name>
+  </channel>
+  <channel id="113.astro">
+    <display-name lang="en">AURA HD</display-name>
+  </channel>
+  <channel id="114.astro">
+    <display-name lang="en">TV ALHIJRAH</display-name>
+  </channel>
+  <channel id="116.astro">
+    <display-name lang="en">COLORS HD</display-name>
+  </channel>
+  <channel id="118.astro">
+    <display-name lang="en">GO SHOP</display-name>
+  </channel>
+  <channel id="12.astro">
+    <display-name lang="en">Tastemade</display-name>
+  </channel>
+  <channel id="122.astro">
+    <display-name lang="en">TVS</display-name>
+  </channel>
+  <channel id="123.astro">
+    <display-name lang="en">Awesome TV</display-name>
+  </channel>
+  <channel id="124.astro">
+    <display-name lang="en">TVB Magic</display-name>
+  </channel>
+  <channel id="146.astro">
+    <display-name lang="en">TV OKEY</display-name>
+  </channel>
+  <channel id="147.astro">
+    <display-name lang="en">NTV7</display-name>
+  </channel>
+  <channel id="148.astro">
+    <display-name lang="en">8TV</display-name>
+  </channel>
+  <channel id="149.astro">
+    <display-name lang="en">TV9</display-name>
+  </channel>
+  <channel id="200.astro">
+    <display-name lang="en">SELF SERVICE</display-name>
+  </channel>
+  <channel id="201.astro">
+    <display-name lang="en">VAANAVIL HD</display-name>
+  </channel>
+  <channel id="202.astro">
+    <display-name lang="en">VINMEEN HD</display-name>
+  </channel>
+  <channel id="203.astro">
+    <display-name lang="en">Vellithirai HD</display-name>
+  </channel>
+  <channel id="211.astro">
+    <display-name lang="en">SUN TV HD</display-name>
+  </channel>
+  <channel id="212.astro">
+    <display-name lang="en">SUN MUSIC HD</display-name>
+  </channel>
+  <channel id="214.astro">
+    <display-name lang="en">ADITHYA</display-name>
+  </channel>
+  <channel id="215.astro">
+    <display-name lang="en">Sun News</display-name>
+  </channel>
+  <channel id="216.astro">
+    <display-name lang="en">KTV</display-name>
+  </channel>
+  <channel id="217.astro">
+    <display-name lang="en">Sun Life</display-name>
+  </channel>
+  <channel id="221.astro">
+    <display-name lang="en">STAR VIJAY HD</display-name>
+  </channel>
+  <channel id="222.astro">
+    <display-name lang="en">COLORS TAMIL</display-name>
+  </channel>
+  <channel id="223.astro">
+    <display-name lang="en">ZEE TAMIL HD</display-name>
+  </channel>
+  <channel id="241.astro">
+    <display-name lang="en">THANGATHIRAI HD</display-name>
+  </channel>
+  <channel id="251.astro">
+    <display-name lang="en">Zee Cinema</display-name>
+  </channel>
+  <channel id="3.astro">
+    <display-name lang="en">CarbonTV</display-name>
+  </channel>
+  <channel id="300.astro">
+    <display-name lang="en">iQIYI HD</display-name>
+  </channel>
+  <channel id="303.astro">
+    <display-name lang="en">GO SHOP 2</display-name>
+  </channel>
+  <channel id="305.astro">
+    <display-name lang="en">TVB CLASSIC HD</display-name>
+  </channel>
+  <channel id="306.astro">
+    <display-name lang="en">AEC HD</display-name>
+  </channel>
+  <channel id="308.astro">
+    <display-name lang="en">QJ HD</display-name>
+  </channel>
+  <channel id="309.astro">
+    <display-name lang="en">CELESTIAL HD</display-name>
+  </channel>
+  <channel id="310.astro">
+    <display-name lang="en">TVBJ</display-name>
+  </channel>
+  <channel id="311.astro">
+    <display-name lang="en">AOD HD</display-name>
+  </channel>
+  <channel id="316.astro">
+    <display-name lang="en">CTI ASIA HD</display-name>
+  </channel>
+  <channel id="317.astro">
+    <display-name lang="en">TVB E-NEWS HD</display-name>
+  </channel>
+  <channel id="319.astro">
+    <display-name lang="en">TVB XING HE HD</display-name>
+  </channel>
+  <channel id="320.astro">
+    <display-name lang="en">TVBS ASIA HD</display-name>
+  </channel>
+  <channel id="321.astro">
+    <display-name lang="en">CCM</display-name>
+  </channel>
+  <channel id="325.astro">
+    <display-name lang="en">PHOENIX HD</display-name>
+  </channel>
+  <channel id="326.astro">
+    <display-name lang="en">PHOENIX NEWS HD</display-name>
+  </channel>
+  <channel id="333.astro">
+    <display-name lang="en">HUA HEE DAI HD</display-name>
+  </channel>
+  <channel id="335.astro">
+    <display-name lang="en">CCTV4 HD</display-name>
+  </channel>
+  <channel id="352.astro">
+    <display-name lang="en">AOD</display-name>
+  </channel>
+  <channel id="354.astro">
+    <display-name lang="en">AOD</display-name>
+  </channel>
+  <channel id="392.astro">
+    <display-name lang="en">KBSW HD</display-name>
+  </channel>
+  <channel id="393.astro">
+    <display-name lang="en">ONE HD</display-name>
+  </channel>
+  <channel id="395.astro">
+    <display-name lang="en">tvN HD</display-name>
+  </channel>
+  <channel id="396.astro">
+    <display-name lang="en">KPLUS</display-name>
+  </channel>
+  <channel id="398.astro">
+    <display-name lang="en">NHK HD</display-name>
+  </channel>
+  <channel id="4.astro">
+    <display-name lang="en">ESTV</display-name>
+  </channel>
+  <channel id="400.astro">
+    <display-name lang="en">Ultraman</display-name>
+  </channel>
+  <channel id="401.astro">
+    <display-name lang="en">HITS MOVIES HD</display-name>
+  </channel>
+  <channel id="404.astro">
+    <display-name lang="en">BOO</display-name>
+  </channel>
+  <channel id="411.astro">
+    <display-name lang="en">HBO HD</display-name>
+  </channel>
+  <channel id="412.astro">
+    <display-name lang="en">CINEMAX HD</display-name>
+  </channel>
+  <channel id="413.astro">
+    <display-name lang="en">SHOWCASE</display-name>
+  </channel>
+  <channel id="414.astro">
+    <display-name lang="en">HBO Family</display-name>
+  </channel>
+  <channel id="415.astro">
+    <display-name lang="en">HBO Hits</display-name>
+  </channel>
+  <channel id="416.astro">
+    <display-name lang="en">tvN Movies</display-name>
+  </channel>
+  <channel id="472.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="473.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="474.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="475.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="476.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="477.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="478.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="479.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="480.astro">
+    <display-name lang="en">FIRST</display-name>
+  </channel>
+  <channel id="481.astro">
+    <display-name lang="en">BEST</display-name>
+  </channel>
+  <channel id="482.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="483.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="484.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="485.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="486.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="487.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="488.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="489.astro">
+    <display-name lang="en">FIRST HD</display-name>
+  </channel>
+  <channel id="501.astro">
+    <display-name lang="en">AWANI HD</display-name>
+  </channel>
+  <channel id="502.astro">
+    <display-name lang="en">BERNAMA</display-name>
+  </channel>
+  <channel id="503.astro">
+    <display-name lang="en">CGTN HD</display-name>
+  </channel>
+  <channel id="511.astro">
+    <display-name lang="en">CNN HD</display-name>
+  </channel>
+  <channel id="512.astro">
+    <display-name lang="en">BBC News HD</display-name>
+  </channel>
+  <channel id="513.astro">
+    <display-name lang="en">AL JAZEERA HD</display-name>
+  </channel>
+  <channel id="514.astro">
+    <display-name lang="en">SKY NEWS HD</display-name>
+  </channel>
+  <channel id="515.astro">
+    <display-name lang="en">CNA HD</display-name>
+  </channel>
+  <channel id="516.astro">
+    <display-name lang="en">CNBC HD</display-name>
+  </channel>
+  <channel id="517.astro">
+    <display-name lang="en">BLOOMBERG  TV HD</display-name>
+  </channel>
+  <channel id="518.astro">
+    <display-name lang="en">ABC AUSTRALIA</display-name>
+  </channel>
+  <channel id="521.astro">
+    <display-name lang="en">DW HD</display-name>
+  </channel>
+  <channel id="522.astro">
+    <display-name lang="en">FRANCE24 HD</display-name>
+  </channel>
+  <channel id="549.astro">
+    <display-name lang="en">Love Nature 4K</display-name>
+  </channel>
+  <channel id="550.astro">
+    <display-name lang="en">Love Nature</display-name>
+  </channel>
+  <channel id="551.astro">
+    <display-name lang="en">Global Trekker</display-name>
+  </channel>
+  <channel id="552.astro">
+    <display-name lang="en">DISCOVERY HD</display-name>
+  </channel>
+  <channel id="553.astro">
+    <display-name lang="en">DISCOVERY ASIA</display-name>
+  </channel>
+  <channel id="554.astro">
+    <display-name lang="en">BBC Earth</display-name>
+  </channel>
+  <channel id="555.astro">
+    <display-name lang="en">HISTORY HD</display-name>
+  </channel>
+  <channel id="556.astro">
+    <display-name lang="en">ANIMAL PLANET HD</display-name>
+  </channel>
+  <channel id="6.astro">
+    <display-name lang="en">TAYO+</display-name>
+  </channel>
+  <channel id="603.astro">
+    <display-name lang="en">TUTOR TV</display-name>
+  </channel>
+  <channel id="611.astro">
+    <display-name lang="en">CERIA HD</display-name>
+  </channel>
+  <channel id="612.astro">
+    <display-name lang="en">DreamWorks</display-name>
+  </channel>
+  <channel id="615.astro">
+    <display-name lang="en">CARTOON NTWK HD</display-name>
+  </channel>
+  <channel id="616.astro">
+    <display-name lang="en">NICKELODEON HD</display-name>
+  </channel>
+  <channel id="617.astro">
+    <display-name lang="en">NICK JR</display-name>
+  </channel>
+  <channel id="618.astro">
+    <display-name lang="en">Moonbug Kids</display-name>
+  </channel>
+  <channel id="620.astro">
+    <display-name lang="en">CBeebies</display-name>
+  </channel>
+  <channel id="7.astro">
+    <display-name lang="en">EDGEsport</display-name>
+  </channel>
+  <channel id="701.astro">
+    <display-name lang="en">AXN HD</display-name>
+  </channel>
+  <channel id="703.astro">
+    <display-name lang="en">Lifetime</display-name>
+  </channel>
+  <channel id="706.astro">
+    <display-name lang="en">HITS HD</display-name>
+  </channel>
+  <channel id="707.astro">
+    <display-name lang="en">TLC HD</display-name>
+  </channel>
+  <channel id="708.astro">
+    <display-name lang="en">FOOD NTWK HD</display-name>
+  </channel>
+  <channel id="709.astro">
+    <display-name lang="en">AFN HD</display-name>
+  </channel>
+  <channel id="712.astro">
+    <display-name lang="en">WARNER TV</display-name>
+  </channel>
+  <channel id="713.astro">
+    <display-name lang="en">Paramount</display-name>
+  </channel>
+  <channel id="714.astro">
+    <display-name lang="en">CI HD</display-name>
+  </channel>
+  <channel id="715.astro">
+    <display-name lang="en">HGTV HD</display-name>
+  </channel>
+  <channel id="716.astro">
+    <display-name lang="en">DMAX HD</display-name>
+  </channel>
+  <channel id="717.astro">
+    <display-name lang="en">BBC Lifestyle</display-name>
+  </channel>
+  <channel id="718.astro">
+    <display-name lang="en">MTV HD</display-name>
+  </channel>
+  <channel id="795.astro">
+    <display-name lang="en">LIVE ADHOC 1</display-name>
+  </channel>
+  <channel id="796.astro">
+    <display-name lang="en">LIVE ADHOC 2</display-name>
+  </channel>
+  <channel id="8.astro">
+    <display-name lang="en">Infamous TV</display-name>
+  </channel>
+  <channel id="801.astro">
+    <display-name lang="en">ARENA HD</display-name>
+  </channel>
+  <channel id="802.astro">
+    <display-name lang="en">ARENA 2 HD</display-name>
+  </channel>
+  <channel id="803.astro">
+    <display-name lang="en">ARENA BOLA</display-name>
+  </channel>
+  <channel id="804.astro">
+    <display-name lang="en">ARENA BOLA 2</display-name>
+  </channel>
+  <channel id="805.astro">
+    <display-name lang="en">ASTRO UHD</display-name>
+  </channel>
+  <channel id="809.astro">
+    <display-name lang="en">beIN Sports Rugby</display-name>
+  </channel>
+  <channel id="810.astro">
+    <display-name lang="en">SPOTV2</display-name>
+  </channel>
+  <channel id="811.astro">
+    <display-name lang="en">ASSP HD</display-name>
+  </channel>
+  <channel id="812.astro">
+    <display-name lang="en">ASSP2 HD</display-name>
+  </channel>
+  <channel id="813.astro">
+    <display-name lang="en">ASSP3 HD</display-name>
+  </channel>
+  <channel id="814.astro">
+    <display-name lang="en">ASSP4 HD</display-name>
+  </channel>
+  <channel id="815.astro">
+    <display-name lang="en">W-Sport</display-name>
+  </channel>
+  <channel id="816.astro">
+    <display-name lang="en">SPOTV</display-name>
+  </channel>
+  <channel id="817.astro">
+    <display-name lang="en">beIN SPORTS 2</display-name>
+  </channel>
+  <channel id="818.astro">
+    <display-name lang="en">beIN SPORTS</display-name>
+  </channel>
+  <channel id="819.astro">
+    <display-name lang="en">bEIN SPORTS 3</display-name>
+  </channel>
+  <channel id="820.astro">
+    <display-name lang="en">EUROSPORT HD</display-name>
+  </channel>
+  <channel id="821.astro">
+    <display-name lang="en">WWE NETWORK</display-name>
+  </channel>
+  <channel id="822.astro">
+    <display-name lang="en">GOLF CHANNEL HD</display-name>
+  </channel>
+  <channel id="823.astro">
+    <display-name lang="en">Premier Sports</display-name>
+  </channel>
+  <channel id="824.astro">
+    <display-name lang="en">ASTRO CRICKET</display-name>
+  </channel>
+  <channel id="852.astro">
+    <display-name lang="en">HITZ</display-name>
+  </channel>
+  <channel id="853.astro">
+    <display-name lang="en">MY</display-name>
+  </channel>
+  <channel id="854.astro">
+    <display-name lang="en">LITE</display-name>
+  </channel>
+  <channel id="855.astro">
+    <display-name lang="en">MIX</display-name>
+  </channel>
+  <channel id="856.astro">
+    <display-name lang="en">ERA</display-name>
+  </channel>
+  <channel id="857.astro">
+    <display-name lang="en">SINAR</display-name>
+  </channel>
+  <channel id="858.astro">
+    <display-name lang="en">MELODY</display-name>
+  </channel>
+  <channel id="859.astro">
+    <display-name lang="en">RAAGA</display-name>
+  </channel>
+  <channel id="860.astro">
+    <display-name lang="en">CLASSIC ROCK</display-name>
+  </channel>
+  <channel id="861.astro">
+    <display-name lang="en">GOLD</display-name>
+  </channel>
+  <channel id="862.astro">
+    <display-name lang="en">OPUS</display-name>
+  </channel>
+  <channel id="863.astro">
+    <display-name lang="en">GEGAR</display-name>
+  </channel>
+  <channel id="864.astro">
+    <display-name lang="en">INDIA BEAT</display-name>
+  </channel>
+  <channel id="865.astro">
+    <display-name lang="en">JAZZ</display-name>
+  </channel>
+  <channel id="866.astro">
+    <display-name lang="en">OSAI</display-name>
+  </channel>
+  <channel id="867.astro">
+    <display-name lang="en">BAYU</display-name>
+  </channel>
+  <channel id="868.astro">
+    <display-name lang="en">KENYALANG</display-name>
+  </channel>
+  <channel id="869.astro">
+    <display-name lang="en">NAS FM</display-name>
+  </channel>
+  <channel id="870.astro">
+    <display-name lang="en">V FM</display-name>
+  </channel>
+  <channel id="871.astro">
+    <display-name lang="en">WAI FM</display-name>
+  </channel>
+  <channel id="872.astro">
+    <display-name lang="en">TRAXX FM</display-name>
+  </channel>
+  <channel id="873.astro">
+    <display-name lang="en">MINNAL FM</display-name>
+  </channel>
+  <channel id="874.astro">
+    <display-name lang="en">AI FM</display-name>
+  </channel>
+  <channel id="875.astro">
+    <display-name lang="en">ASYIK FM</display-name>
+  </channel>
+  <channel id="876.astro">
+    <display-name lang="en">ZAYAN</display-name>
+  </channel>
+  <channel id="877.astro">
+    <display-name lang="en">GO XUAN</display-name>
+  </channel>
+  <channel id="9.astro">
+    <display-name lang="en">Gusto TV</display-name>
+  </channel>
+</tv>
